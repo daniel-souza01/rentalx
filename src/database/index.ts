@@ -11,3 +11,5 @@ getConnectionOptions().then((options) => {
     ...options,
   });
 });
+
+console.log("arquivo database");
