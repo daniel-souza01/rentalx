@@ -1,6 +1,6 @@
 # Cadastor de carro
 
-**RF** 
+**RF**
 Deve ser possível cadastrar um novo carro.
 
 **RN**
@@ -10,7 +10,7 @@ O usuário responsável pelo cadastrado deve ser um usuário administrador.
 
 # Listagem de carros
 
-**RF** 
+**RF**
 Deve ser possível listar todos os carros disponíveis.
 Deve ser possível listar todos os carros disponíveis pelo nome da categoria.
 Deve ser possível listar todos os carros disponíveis pelo nome da marca.
@@ -21,23 +21,21 @@ O usuário não precisa estar logado no sistema.
 
 # Cadastro de Especificação no carro
 
-**RF** 
+**RF**
 Deve ser possível cadastrar uma especificação para um carro.
-Deve ser possível listar todas as especificações.
-Deve ser possível listar todos os carros.
 
 **RN**
-Não deve ser possível cadastrar uma especificação para um carro não cadastrado. 
+Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
 Não deve ser possível cadastrar uma especificação já existente para o mesmo carro.
 O usuário responsável pelo cadastrado deve ser um usuário administrador.
 
 # Cadastro de imagens do carros
 
-**RF** 
+**RF**
 Deve ser possível cadastrar a imagem do carro.
 Deve ser possível listar todas os carros.
 
-**RNF** 
+**RNF**
 Utilizar o multer para upload dos arquivos
 
 **RN**
