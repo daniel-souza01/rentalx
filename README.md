@@ -33,7 +33,6 @@ O usuário responsável pelo cadastrado deve ser um usuário administrador.
 
 **RF**
 Deve ser possível cadastrar a imagem do carro.
-Deve ser possível listar todas os carros.
 
 **RNF**
 Utilizar o multer para upload dos arquivos
